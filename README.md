@@ -20,4 +20,4 @@ This project uses basic basic HTML elements to write short introduction of mine.
    
 
 ## Result
-![result](result.png)
+![screenshot](screenshot.png)
