@@ -1,18 +1,18 @@
-#Introduction
+# Introduction
 
 This project uses basic basic HTML elements to write short introduction of mine.
 
-#Table of contents
+# Table of contents
 
  +Technologies
  +Project Structure
  +Getting Started
  
- #Technologies
+ # Technologies
 
- +HTML5
+ + HTML5
 
- #Project structure
+ # Project structure
    
    |-index.html
    |-intro.mp3

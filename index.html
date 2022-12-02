@@ -96,19 +96,19 @@
     <h2>Ask me a question</h2>
     <form>
         <div>
-        <label>Your full name</label>
+        <label for="full_name">Your full name</label>
         <br>
-        <input type="text" name="full-name" placeholder="John Smiths">
+        <input type="text" id="full_name" name="full_name" placeholder="John Smiths">
         </div>
         <div>
-        <label>Your email</label>
+        <label for="email">Your email</label>
         <br>
-        <input type="email" name="email" placeholder="John@gmail.com">
+        <input type="email" id="email" name="email" placeholder="John@gmail.com">
         </div>
         <div>
-            <label>Choose a topic</label>
+            <label for="topic">Choose a topic</label>
             <br>
-            <select>
+            <select name="topic" id="topic">
                 <option>Debugging</option>
                 <option>Packages</option>
                 <option>Syntax</option>
@@ -117,16 +117,16 @@
             </select>
         </div>
         <div>
-            <label>File name which contains the error </label>
-            <input type="text" name="file" placeholder=" For example :calculation.js">
+            <label for="file">File name which contains the error </label>
+            <input type="text" id="file" name="file" placeholder=" For example :calculation.js">
         </div>
         <div>
-            <label>Explain your issue in detail</label>
+            <label for="textarea">Explain your issue in detail</label>
             <br>
-            <textarea  name="textarea"></textarea>
+            <textarea id="textarea" name="textarea"></textarea>
         </div>
         <div>
-        <label>Add the screenshot from your codes </label>
+        <label for ="screenshot">Add the screenshot from your codes </label>
          <input type="file" name="screenshot" id="screenshot">
         </div>
         <button type="button">Send request</button>
