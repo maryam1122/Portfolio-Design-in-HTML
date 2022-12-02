@@ -14,9 +14,9 @@ This project uses basic basic HTML elements to write short introduction of mine.
 
  # Project structure
    
-   |-index.html
-   |-intro.mp3
-   |-README.md
+   |__index.html
+   |__intro.mp3
+   |__README.md
    
 
 ## Result
