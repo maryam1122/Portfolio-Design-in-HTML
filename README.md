@@ -4,9 +4,9 @@ This project uses basic basic HTML elements to write short introduction of mine.
 
 # Table of contents
 
- +Technologies
- +Project Structure
- +Getting Started
+ + Technologies
+ + Project Structure
+ + Getting Started
  
  # Technologies
 
