@@ -17,7 +17,8 @@ This project uses basic basic HTML elements to write short introduction of mine.
    |-index.html
    |-intro.mp3
    |-README.md
-   
+ 
 
 ## Result
-![result](result.png)
+![result](result.png) 
+[Visit website](https://maryam1122.github.io/Portofolio-Design-in-HTML/)
